@@ -1,0 +1,24 @@
+/* external css(need .css file)*/
+
+h1{
+    color:red;
+    background-color:greenyellow;
+
+
+
+}
+h2{
+
+    text-align:right;
+}
+
+p{
+
+    font-weight:bold;
+    font-size: 12px;
+    font-family: Arial;
+
+
+}
+
+
